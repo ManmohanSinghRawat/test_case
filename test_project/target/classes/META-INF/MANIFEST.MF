@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Manish
+Build-Jdk: 12
+Implementation-Title: test_project
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.example
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/test_project
+Created-By: Maven Integration for Eclipse
+
